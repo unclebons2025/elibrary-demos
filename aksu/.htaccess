@@ -1,4 +1,4 @@
-# AKSU e-Library: rules for Apache / LiteSpeed (cPanel hosting, e.g. WhoGoHost)
+# IUO e-Library: rules for Apache / LiteSpeed (cPanel hosting, e.g. WhoGoHost)
 Options -MultiViews -Indexes
 RewriteEngine On
 
